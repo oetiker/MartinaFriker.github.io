@@ -1,0 +1,30 @@
+category: Roboter
+name: Thymio
+description: Schweizer Roboter mit 39 Led's, Lage-/ Beschleunigungssensor, 9 Abstandssensoren, Temperatursensor, Lautsprecher, Mikrophon, 5 Tasten, Stifthalterung, Lego-kompatibel
+advantages: Viele Möglichkeiten
+languages:
+  - Aseba
+  - visuell/Blöcke
+ages:
+  - 1. Zyklus
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://www.thymio.org/
+  desc: www.thymio.org
+materials:
+  - url: https://www.thymio.org/de:thymioschoolprojects
+    desc: Material von thymio.org
+  - url: http://robotik.phlu.ch/wordpress_d/?cat=50
+    desc: Material für 2. Zyklus von der PH Luzern
+  - url: http://robotik.phlu.ch/wordpress_d/?cat=51
+    desc: Material für den 3. Zyklus von der PH Luzern
+  - url: https://www.sonnentaler.net/aktivitaeten/informatik/programmieren/123-kodiert/
+    desc: 1, 2, 3 Kodiert (Unterrichtseinheit mit Roboter)
+  - url: assets/materials/thymio/Thymio_einfache_Aufgaben.docx
+    desc: Thymio einfache Aufgaben von M.Friker
+  - url: assets/materials/thymio/Plakat_Anleitung_Thymio_VPL.pdf
+    desc: Plakat Anleitung Thymio VPL von M.Friker
+
+image_name: thymio.jpg

@@ -1,0 +1,15 @@
+category: online
+name: CheckiO
+description: Python und Javascript lernen verpackt als Spiel, auf englisch
+advantages: eigene Lösung mit anderen vergleichen
+languages:
+  - Javascript
+  - Python
+ages:
+  - Sekundarstufe 2
+link:
+  url: https://checkio.org
+  desc: checkio.org
+materials:
+
+image_name: checkio.png

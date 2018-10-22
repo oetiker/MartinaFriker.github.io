@@ -1,0 +1,18 @@
+category: Platinen
+name: Oxocard
+description: Schweizer Einplatinen-Computer mit Ledfeld, Lage-/ Beschleunigungssensor, 6 Tasten
+advantages: 8x8 farbige Led's, Wlan, nachhaltig entwickelt
+languages:
+  - Python
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://www.oxocard.ch/
+  desc: www.oxocard.ch
+materials:
+  - url: https://www.oxocard.ch/exercises.html
+    desc: Arbeitsblätter von Oxocard
+image_name: oxocard.png

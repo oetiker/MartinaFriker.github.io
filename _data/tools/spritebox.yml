@@ -1,0 +1,13 @@
+category: Apps
+name: Spritebox Code Hour
+description: Mit Programmieren Spiellandschaft so umgestalten dass die Spielfigur vorwärts kommt
+advantages: Schrittweise von Block- zu Textprogrammierung
+languages:
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+link:
+  url: http://spritebox.com/hour.html
+  desc: spritebox.com
+materials:
+image_name: spritebox.jpg

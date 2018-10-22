@@ -1,0 +1,17 @@
+category: download
+name: Processing
+description: Grafiken, Simulationen und Animationen programmieren, angelehnt an Java
+advantages: ideal für fächerübergreifende Projekte (Naturwissenschaft, Kunst)
+languages:
+  - Processing
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://processing.org/
+  desc: processing.org
+materials:
+  - url: https://www.zebis.ch/unterrichtsmaterial/programmier-projekt
+    desc: Unterrichtsbeispiel bei Zebis von Christian Wyrsch
+image_name: processing.png

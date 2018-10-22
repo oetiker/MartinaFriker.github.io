@@ -1,0 +1,29 @@
+
+category: online
+name: Scratch
+description: Programmieren mit Blöcken, Anleitungen integriert
+advantages: grosse und aktive Community; viel Material vorhanden
+languages:
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+link:
+  url: https://scratch.mit.edu/
+  desc: scratch.mit.edu
+materials:
+  - url: https://scratch.mit.edu/tips
+    desc: Tutorials/ Aktivitäts-Karten von Scratch
+  - url: https://www.zebis.ch/unterrichtsmaterial/scratch-karten
+    desc: Scratch-Karten von Urs Frischknecht
+  - url: https://csfirst.withgoogle.com/c/cs-first/de/curriculum.html
+    desc: Lernkurse mit Videos von Google CS First
+  - url: http://ilearnit.ch/download/ScratchProjektideen.pdf
+    desc: Projektideen PH Schwyz
+  - url: http://www.swisseduc.ch/informatik/programmiersprachen/scratch_werkstatt/
+    desc: Scratch-Werkstatt von swisseduc
+  - url: https://milehrplan.ch/scratch/
+    desc: "Lernbaum PH Bern (Tipp: unten anfangen ;-)"
+  - url: http://scratched.gse.harvard.edu/resources/scratch-3-stunden
+    desc: Scratch in 3 Stunden von Bernd Gärtner
+image_name: Scratch.jpg

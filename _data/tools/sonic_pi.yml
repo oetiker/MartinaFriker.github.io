@@ -1,0 +1,15 @@
+category: online
+name: Sonic Pi
+description: Musik programmieren, laufende Schleife in Echtzeit ändern ("Live-Coding")
+advantages: integriertes Tutorial
+languages:
+  - Ruby
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://sonic-pi.net/
+  desc: sonic-pi.net
+materials:
+image_name: sonic_pi.png

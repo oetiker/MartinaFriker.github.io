@@ -1,0 +1,16 @@
+category: Apps
+name: Swift Playground
+description: Programmier-Lern-App von Apple, ziemlich umfangreich
+advantages:
+languages:
+  - Swift
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://itunes.apple.com/ch/app/swift-playgrounds/id908519492?mt=8&l=de
+  desc: Swift Playground im Appstore
+materials:
+
+image_name: swift.jpg

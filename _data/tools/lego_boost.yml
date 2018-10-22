@@ -1,0 +1,14 @@
+category: Roboter
+name: Lego Boost
+description: Lego-Roboter (Baukastensystem) 3 Motoren, Neigungssensor, Abstands/ Farbsensor; Bauanleitungen für 5 Roboter
+advantages: vielfältige Möglichkeiten in Kombination mit Legoteilen
+languages:
+  - visuell/Blöcke
+ages:
+  - 1. Zyklus
+  - 2. Zyklus
+link:
+  url: https://www.lego.com/de-de/themes/boost
+  desc: www.lego.com/.../boost
+materials:
+image_name: lego_boost.jpg

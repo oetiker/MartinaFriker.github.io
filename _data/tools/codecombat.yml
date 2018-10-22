@@ -1,0 +1,16 @@
+category: online
+name: CodeCombat
+description: Spielfiguren so programmieren dass sie Gegner besiegen, mit Schlaufen/ Arrays/ Funktionen/...
+advantages:
+languages:
+  - Javascript
+  - Python
+ages:
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://codecombat.com/
+  desc: codecombat.com
+materials:
+
+image_name: codecombat.png

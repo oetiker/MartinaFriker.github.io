@@ -1,0 +1,16 @@
+category: online
+name: Crunchzilla
+description: Geführtes Lernprogramm aufgeteilt in "Codemonster", "Code Maven" (für Jugendliche), "Data Maven" (Statistik, ab 12 Jahren) und "Game Maven" (ab 16 Jahre)
+advantages: 
+languages:
+  - Javascript
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: http://www.crunchzilla.com/
+  desc: www.crunchzilla.com
+materials:
+
+image_name: crunchzilla.jpg

@@ -1,0 +1,15 @@
+category: online
+name: freeCodeCamp
+description: Online-Lehrgang für HTML, CSS und Javascript lernen, mit Lernvideos/ Übungen/ Infotexten
+advantages:
+languages:
+  - Javascript
+  - HTML/CSS
+ages:
+  - Sekundarstufe 2
+link:
+  url: https://learn.freecodecamp.org/
+  desc: learn.freecodecamp.org
+materials:
+
+image_name: freecodecamp.jpg

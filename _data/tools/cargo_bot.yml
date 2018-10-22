@@ -1,0 +1,14 @@
+category: Apps
+name: Cargo Bot
+description: Kran mit richtiger Befehlsreihenfolge programmieren, "Funktionen" einsetzen
+advantages:
+languages:
+  - visuell/Blöcke
+ages:
+  - 1. Zyklus
+  - 2. Zyklus
+link:
+  url: https://itunes.apple.com/ch/app/cargo-bot/id519690804?mt=8
+  desc: Cargo Bot im Appstore
+materials:
+image_name: cargo_bot.jpg

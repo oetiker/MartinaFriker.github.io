@@ -1,0 +1,15 @@
+category: Apps
+name: Scratch Jr
+description: Scratch als App für jüngere Kinder, mit Blöcken kleine Szene programmieren
+advantages:
+languages:
+  - visuell/Blöcke
+ages:
+  - 1. Zyklus
+link:
+  url: https://itunes.apple.com/ch/app/scratchjr/id895485086?mt=8
+  desc: Scratch Jr im Appstore
+materials:
+  - url: https://tueftelakademie.de/courses/digitales-programmieren-ii-scratch-junior/
+    desc: Unterrichtsmaterial von tueftelakademie.de
+image_name: scratch_jr.png

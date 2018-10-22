@@ -1,0 +1,14 @@
+category: online
+name: Web Lab (von Code)
+description: Programmierumgebung, einfache Webseiten im Browser mit HTML und CSS erstellen und teilen
+advantages: kein Texteditor nötig, Programmieren und Seitenansicht im gleichen Fenster
+languages:
+  - HTML/CSS
+ages:
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://code.org/educate/weblab
+  desc: code.org/weblab
+materials:
+image_name: weblab.png

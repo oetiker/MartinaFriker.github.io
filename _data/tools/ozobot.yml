@@ -1,0 +1,22 @@
+category: Roboter
+name: Ozobot Evo/ Bit
+description: Kleiner Roboter, liest Farbcodes (Bodensensoren), Abstandsensoren (nur Evo), Lautsprecher (nur Evo)
+advantages: klein und handlich, bietet trotzdem viel (Evo)
+languages: visuell/Blöcke
+ages:
+  - 1. Zyklus
+  - 2. Zyklus
+  - 3. Zyklus
+link:
+  url: https://ozobot.com/
+  desc: ozobot.com
+materials:
+  - url: https://ozobot.com/stem-education
+    desc: Materialien/ Unterrichtseinheiten von ozobot.com
+  - url: http://ilearnit.ch/download/OzobotProjektideen.pdf
+    desc: Projektideen PH Schwyz
+  - url: assets/materials/ozobot/EtikettenOzobotAvery_L4736.pdf
+    desc: Ozobot Vorlage Farbcode Ettiketten (Avery L4736) von M.Friker
+  - url: assets/materials/ozobot/ListeOzobotFarbcodes_mitPictos.pdf
+    desc: Liste Ozobot Farbcodes mit Pictogrammen von M.Friker
+image_name: ozobot.jpeg

@@ -1,0 +1,18 @@
+category: Platinen
+name: Circuit Playground Express
+description: Einplatinen-Computer von Adafruit mit 10 farbigen Led's, Lage-/ Beschleunigungssensor, Lautsprecher, Mikrophon, 3 Tasten
+advantages: günstig
+languages:
+  - C
+  - Javascript
+  - visuell/Blöcke
+  - Python
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://learn.adafruit.com/adafruit-circuit-playground-express/overview
+  desc: learn.adafruit.com
+materials:
+image_name: circuit_playground.jpeg

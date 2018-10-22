@@ -1,0 +1,16 @@
+category: Platinen
+name: Codebug
+description: kleiner Einplatinencomputer mit 5x5-Ledfeld, analogen Anschlüssen, 2 Tasten
+advantages: günstig, Batteriehalter integriert, visuelle Programmierung und Javascript und Python im gleichen Editor
+languages:
+  - Javascript
+  - Python
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+link:
+  url: http://www.codebug.org.uk/
+  desc: www.codebug.org
+materials:
+image_name: codebug.jpeg

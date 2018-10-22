@@ -1,0 +1,18 @@
+category: online
+name: Agent Cubes
+description: Spiele/ Simulation programmieren mit Blöcken
+advantages:
+languages:
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://www.agentcubesonline.com/
+  desc: www.agentcubesonline.com
+materials:
+  - url: https://web.fhnw.ch/plattformen/scalablegamedesign/mediawiki/index.php/Lehr-_und_Lernmaterial
+    desc: Unterrichtsmaterial von Fhnw
+
+image_name: agent_cubes.jpeg

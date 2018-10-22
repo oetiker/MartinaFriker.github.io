@@ -1,0 +1,17 @@
+category: Roboter
+name: Sphero/ Sphero Mini
+description: Roboterball mit Lage-/ Beschleunigungssensor, farbige Led's
+advantages:
+languages:
+  - Javascript
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+link:
+  url: https://www.sphero.com/
+  desc: www.sphero.com
+materials:
+  - url: https://edu.sphero.com/cwists/category
+    desc: Unterrichtsideen von sphero.com
+image_name: sphero.jpg

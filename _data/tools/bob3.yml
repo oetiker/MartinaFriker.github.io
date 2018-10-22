@@ -1,0 +1,22 @@
+category: Platinen
+name: Bob3
+description: Einplatinencomputer mit 2 Touchsensoren, Temperatursensor, 2 helle Led, 2 farbige Led, Lichtsensor, IR-Sende-Led
+advantages: Batteriehalter integriert, wahlweise zum selber zusammenbauen (löten)
+languages:
+  - C++
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://www.bob3.org/de/
+  desc: www.bob3.org
+materials:
+  - url: https://www.progbob.org/
+    desc: Progbob (online-Tutorial von bob3)
+  - url: https://www.bob3.org/downloads/Lehrerhandreichung_BOB3_V8.pdf
+    desc: Lehrerhandreichung von Bob3
+  - url: https://www.bob3.org/images/BOB3-Tutorial_Uebersicht_Lerninhalte.pdf
+    desc: Übersicht Lerninhalte Tutorial von Bob3
+
+image_name: bob3.jpg

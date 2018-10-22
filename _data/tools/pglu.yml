@@ -1,0 +1,20 @@
+category: Roboter
+name: PGLU
+description: Schweizer Platine mit dazugehöriger App zum Ansteuern von selbstgebauten Objekten/ Robotern; Teachers Box zum Programmieren, Organisieren und Übertragen der PGLU-Programmen.
+advantages:
+languages:
+    - C
+    - visuell/Blöcke
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://pglu.ch/
+  desc: pglu.ch
+materials:
+  - url: https://pglu.ch/4-projekte/
+    desc: Bauanleitungen von pglu
+  - url: https://pglu.ch/vermittlung/
+    desc: Arbeitsblätter zum Programmieren von pglu
+image_name: pglu.png

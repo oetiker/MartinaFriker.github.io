@@ -1,0 +1,19 @@
+category: Platinen
+name: Raspberry Pi
+description: Einplatinen-Computer mit digitalen und analogen Anschlüssen, Wlan und Bluetooth (Modell 3), viele Erweiterungsmodule erhältlich
+advantages: grosse und aktive Community
+languages:
+  - C
+  - Python
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://www.raspberrypi.org/
+  desc: www.raspberypi.org
+materials:
+  - url: http://www.medienistik.de/Themenheft_RaspberryPi.pdf
+    desc: Themenheft Raspberry Pi von Medienistik
+image_name: raspberry.png

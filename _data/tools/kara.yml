@@ -1,0 +1,20 @@
+category: download
+name: Kara
+description: Marienkäfer mit endlichen Automaten programmieren so dass er bestimmte Aufgaben erfüllt
+advantages:
+languages:
+  - Java
+  - Javascript
+  - Kara
+  - Python
+  - Ruby
+ages:
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: "http://www.swisseduc.ch/informatik/karatojava/kara/"
+  desc: "www.swisseduc.ch/informatik/karatojava"
+materials:
+  - url: http://www.educ.ethz.ch/unterrichtsmaterialien/informatik/kara.html
+    desc: Leitprogramm Kara von J. Zimmermann, ETH Zürich
+image_name: kara.png

@@ -1,0 +1,14 @@
+category: Apps
+name: Tickle
+description:
+advantages: Kompatibel mit Microbit, Applewatch, Philips Hue, Lego, Sphero und anderen Robotern
+languages:
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+link:
+  url: https://itunes.apple.com/ch/app/tickle-app-learn-to-code/id1063639403?mt=8
+  desc: Tickle im Appstore
+materials:
+image_name: tickle.jpg

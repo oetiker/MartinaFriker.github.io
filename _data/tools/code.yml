@@ -1,0 +1,18 @@
+category: online
+name: Code
+description: Programmieren mit Blöcken
+advantages: Kurse für Kindergarten (ohne lesen) bis 18-jährige
+languages:
+  - visuell/Blöcke
+ages:
+  - 1. Zyklus
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://code.org/
+  desc: code.org
+materials:
+  - url: https://studio.code.org/courses?view=teacher
+    desc: Kurse von Code
+image_name: code.png

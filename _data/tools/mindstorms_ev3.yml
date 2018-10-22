@@ -1,0 +1,19 @@
+category: Roboter
+name: Mindstorms Education EV3
+description: Lego-Roboter (Baukastensystem) mit 3 Motoren, Abstandssensor, Farb-/ Helligkeitssensor, Drucksensor (Taste). Weitere Sensoren optional.
+advantages: vielfältige Möglichkeiten in Kombination mit Legoteilen, Unterrichtsmaterial von Lego, Robotik-Wettbewerb
+languages:
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://education.lego.com/de-de/product/mindstorms-ev3
+  desc: education.lego.mindstorms
+materials:
+  - url: https://education.lego.com/de-de/downloads/mindstorms-ev3/curriculum
+    desc: von Lego
+  - url: https://www.schularena.com/ict/informatik/robotik/lego-mindstorms
+    desc: von Schularena.com
+image_name: mindstorms_ev3.jpeg

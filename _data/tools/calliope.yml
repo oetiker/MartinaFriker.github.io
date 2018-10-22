@@ -1,0 +1,26 @@
+category: Platinen
+name: Calliope
+description: Deutscher Einplatinen-Computer mit 5x5-Ledfeld (rot), Lage-/ Beschleunigungssensor, Licht-/ Temperatursensor, Kompass, analoge Anschlüsse, Lautsprecher, Mikrophon, 2 Tasten
+advantages: Viele Funktionen und Sensoren, Unterrichtsmaterial auf Deutsch (Cornelsen und andere)
+languages:
+  - visuell/Blöcke
+  - Python
+  - Javascript
+  - C++
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://calliope.cc/
+  desc: calliope.cc
+materials:
+  - url: https://calliope.cc/schulen/schulmaterial
+    desc: Unterrichtsmaterial-Sammlung von Calliope
+  - url: https://phzh.ch/globalassets/phzh.ch/medienbildung/dokumente/kurs-highlights_calliope-cards.pdf
+    desc: Calliope-Cards von der PH Zürich
+  - url: https://appcamps.de/unterrichtsmaterial/calliope-mini/
+    desc: Unterrichtsmaterial von appcamps.de
+  - url: https://tueftelakademie.de/oer-materialien/
+    desc: Unterrichtsmaterial von der Tüftelakademie
+image_name: calliope.jpeg

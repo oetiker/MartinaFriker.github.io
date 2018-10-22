@@ -1,0 +1,15 @@
+category: online
+name: Blockly-Games
+description: Kleine Spiele mit Blöcken ("Übersetzung" in Javascript); beginnt sehr einfache - wird dann anspruchsvoller
+advantages: abwechslungsreich, gut geführt
+languages:
+  - Javascript
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+link:
+  url: https://blockly-games.appspot.com/?lang=de
+  desc: blockly-games.appspot.com
+materials:
+image_name: blockly_games.png

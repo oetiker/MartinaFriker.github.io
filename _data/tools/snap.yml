@@ -1,0 +1,15 @@
+category: online
+name: Snap!
+description: Programmieren mit Blöcken, Scratch erweitert um komplexere und abstraktere Konzepte die in Scratch zugunsten der Kindertauglichkeit fehlen
+advantages:
+languages:
+  - visuell/Blöcke
+ages:
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://snap.berkeley.edu/
+  desc: snap.berkeley.edu
+materials:
+
+image_name: snap.png

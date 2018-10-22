@@ -1,0 +1,18 @@
+category: online
+name: Appinventor MIT
+description: Eigene Apps für Android erstellen mit Blöcken, auf Englisch
+advantages: Apps direkt auf Smartphone uebertragen (mit QR-Code)
+languages:
+  - visuell/Blöcke
+ages:
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: http://appinventor.mit.edu/explore/
+  desc: appinventor.mit.edu
+materials:
+  - url: https://appcamps.de/unterrichtsmaterial/app-entwicklung/
+    desc: Unterrichtsmaterial von appcamps.de
+  - url: http://appinventor.mit.edu/explore/ai2/tutorials.html
+    desc: Tutorials von Appinventor MIT (englisch)
+image_name: appinventor.png

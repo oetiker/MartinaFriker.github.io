@@ -1,0 +1,14 @@
+category: Apps
+name: Codea
+description: Games/ Simulationen in Lua programmieren auf dem Ipad, inspiriert von Processing, Beispiel-Projekte  
+advantages: fertige Projekte können direkt aus der App in Xcode exportiert werden
+languages:
+  - Lua
+ages:
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://itunes.apple.com/ch/app/codea/id439571171?mt=8
+  desc: Codea im Appstore
+materials:
+image_name: codea.jpg

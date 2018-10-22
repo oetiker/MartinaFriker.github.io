@@ -1,0 +1,14 @@
+category: Apps
+name: Hopscotch
+description: Einfache Spiele erstellen, auf englisch, mit Anleitungsvideos
+advantages: Auf demselben Gerät programmieren und spielen
+languages:
+    - visuell/Blöcke
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+link:
+  url: https://itunes.apple.com/ch/app/hopscotch-make-games/id617098629?mt=8
+  desc: Hopscotch im Appstore
+materials:
+image_name: hopscotch.png

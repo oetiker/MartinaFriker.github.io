@@ -1,0 +1,21 @@
+category: Roboter
+name: Beebot, Bluebot
+description: Roboter in Käferform, mit Richtungstasten (Vorwärts, Rückwärts, Links-/ Rechtsdrehung) "programmierbar" (speichert Tastenfolge und fährt dann diesen Weg)
+advantages: ideal für Anfänger/ Kindergarten
+languages:
+  - keine
+ages:
+  - 1. Zyklus
+link:
+  url: https://www.bee-bot.us/
+  desc: www.bee-bot.us
+materials:
+  - url: https://www.phfr.ch/sites/default/files/gesamtdossier.pdf
+    desc: Dossier PH Fribourg
+  - url: https://www.phbern.ch/ideenset-robotik/unterrichtsmaterial/bee-bot-1-zyklus.html
+    desc: Materialiensammlung PH Bern
+  - url: assets/materials/beebot_bluebot/Bluebot_einfache_Aufgaben.pdf
+    desc: Bluebot einfache Aufgaben von M.Friker
+  - url: assets/materials/beebot_bluebot/Bluebot_Quadrate_Stadtplan.pdf
+    desc: Vorlage Quadrate für Stadtplan von M.Friker
+image_name: beebot_bluebot.jpg

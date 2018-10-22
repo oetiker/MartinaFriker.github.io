@@ -1,0 +1,14 @@
+category: Apps
+name: Karel
+description: Roboter programmieren so dass er mit farbigen Blöcken Dinge baut, if-/ while-Schlaufen
+advantages:
+languages:
+  - visuell/Blöcke
+ages:
+  - 1. Zyklus
+  - 2. Zyklus
+link:
+  url: https://itunes.apple.com/ch/app/karel-der-roboter/id807177431?mt=8
+  desc: Karel im Appstore
+materials:
+image_name: karel.jpg

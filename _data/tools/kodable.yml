@@ -1,0 +1,14 @@
+category: Apps
+name: Kodable
+description: Weg einer Spielfigur mit richtiger Befehlsreihenfolge programmieren, if-then, Schleifen, optional Funktionen/ Fehlersuche
+advantages:
+languages:
+  - visuell/Blöcke
+ages:
+  - 1. Zyklus
+  - 2. Zyklus
+link:
+  url: https://itunes.apple.com/ch/app/kodable/id577673067?mt=8
+  desc: Kodable im Appstore
+materials:
+image_name: kodable.jpg

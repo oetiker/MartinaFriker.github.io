@@ -1,0 +1,19 @@
+
+category: online
+name: Pencil Code
+description: Programmieren mit Blöcken oder in Coffeescript (vereinfachte Programmiersprache), HTML/CSS in Blöcken, auf englisch
+advantages:
+languages:
+  - Coffeescript
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://pencilcode.net/
+  desc: pencilcode.net
+materials:
+  - url: https://manual.pencilcode.net/
+    desc: Anleitung von Pencil Code auf englisch
+image_name: pencilcode.jpg

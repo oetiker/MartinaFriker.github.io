@@ -1,0 +1,15 @@
+category: online
+name: Woofys
+description: Scratch-Blöcke in Javascript "übersetzt"
+advantages: erleichtert Übergang von Blöcken zu Textprogrammierung
+languages:
+  - visuell/Blöcke
+  - Javascript
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+link:
+  url: http://woofjs.com/
+  desc: woofjs.com
+materials:
+image_name: woofjs.png

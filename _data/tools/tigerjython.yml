@@ -1,0 +1,15 @@
+category: download
+name: Tigerjython
+description: Einfache Entwicklungsumgebung zum programmieren in Python, Lehrmittel online
+advantages: kompatibel mit Mindstorms, Microbit und Oxocard
+languages:
+  - Python
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: http://www.tigerjython.ch/index.php?inhalt_links=navigation.inc.php&inhalt_mitte=home/home.inc.php
+  desc: www.tigerjython.ch
+materials:
+image_name: tigerjython.jpg

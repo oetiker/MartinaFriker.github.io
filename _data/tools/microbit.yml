@@ -1,0 +1,19 @@
+category: Platinen
+name: Microbit
+description: Britischer Einplatinen-Computer mit 5x5-Ledfeld (rot), Lage-/ Beschleunigungssensor, Licht-/ Temperatursensor, Kompass, analoge Anschlüssen, 2 Tasten
+advantages: Viele Funktionen und Sensoren
+languages:
+  - Javascript
+  - Python
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: http://www.microbit.org/de/
+  desc: www.microbit.org
+materials:
+  - url: assets/materials/microbit/Einfache_Microbit_Projekte_M_Friker.docx
+    desc: Einfache Microbit-Projekte von M.Friker
+image_name: microbit.png

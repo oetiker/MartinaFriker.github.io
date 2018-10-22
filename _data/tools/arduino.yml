@@ -1,0 +1,20 @@
+category: Platinen
+name: Arduino UNO
+description: Einplatinen-Computer mit digitalen und analogen Anschlüssen, viele Erweiterungen erhältlich
+advantages: günstig
+languages:
+  - C
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+  - Sekundarstufe 2
+link:
+  url: https://www.arduino.cc/
+  desc: www.arduino.cc
+materials:
+  - url: http://funduino.de/downloads
+    desc: Unterrichtsmaterial von Funduino
+  - url: http://starthardware.org/
+    desc: Kidskurs auf starthardware.org
+image_name: arduino.jpg

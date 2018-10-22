@@ -1,0 +1,15 @@
+category: Platinen
+name: Kano Computer
+description: Computer selber zusammenbauen und programmieren, ausbaubar mit weiteren Teilen
+advantages: Zeigt Bestandteile bis ins Innerste (durchsichtige Gehäuse)
+languages:
+  - Javascript
+  - Python
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+link:
+  url: https://kano.me/
+  desc: kano.me
+materials:
+image_name: kano.png

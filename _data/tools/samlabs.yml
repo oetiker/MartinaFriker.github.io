@@ -1,0 +1,15 @@
+category: Roboter
+name: Samlabs
+description: Roboter im Baukastensystem
+advantages:
+languages:
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+link:
+  url: https://samlabs.com/
+  desc: samlabs.com
+materials:
+  - url: https://samlabs.com/blogs/lesson-plans
+    desc: von samslab
+image_name: samlabs.jpg

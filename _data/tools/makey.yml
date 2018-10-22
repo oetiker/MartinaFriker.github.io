@@ -1,0 +1,20 @@
+category: Platinen
+name: MakeyMakey
+description: Platine zur Ansteuerung einzelner Keyboardtasten eines Computers durch Schliessen eines Stromkreislaufs
+advantages: einfach und eindrucksvoll
+languages:
+  - keine
+ages:
+  - 1. Zyklus
+  - 2. Zyklus
+link:
+  url: https://makeymakey.com/
+  desc: makeymakey.com
+materials:
+  - url: http://ilearnit.ch/download/MakeyMakeyProjektideen.pdf
+    desc: Projektideen PH Schwyz
+  - url: https://makeymakey.com/lessons/lesson-plans.pdf
+    desc: Lektionspläne von makeymakey.com (englisch)
+  - url: https://tueftelakademie.de/oer-materialien/
+    desc: Unterrichtsbeispiele von tueftelakademie.de
+image_name: makey.jpg

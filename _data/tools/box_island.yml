@@ -1,0 +1,14 @@
+category: Apps
+name: Box Island
+description: Den Weg einer hüpfenden Box mit richtiger Befehlsreihenfolge programmieren, Schlaufen, Bedingungen
+advantages:
+languages:
+  - visuell/Blöcke
+ages:
+  - 1. Zyklus
+  - 2. Zyklus
+link:
+  url: https://itunes.apple.com/ch/app/box-island-award-winning-coding/id979579439
+  desc: Box Island im Appstore
+materials:
+image_name: box_island.jpg

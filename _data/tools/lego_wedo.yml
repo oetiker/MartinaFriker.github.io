@@ -1,0 +1,14 @@
+category: Roboter
+name: Lego Wedo
+description: Lego-Education-Roboter (Baukastensystem) mit Lagesensor, Bewegungs-/ Abstandssensor und einem Motor, kompatibel mit Scratch
+advantages: Unterrichtsmaterial von Lego in der Programmiersoftware integriert
+languages:
+  - visuell/Blöcke
+ages:
+  - 1. Zyklus
+  - 2. Zyklus
+link:
+  url: https://education.lego.com/de-de/product/wedo-2
+  desc: education.lego.com/wedo-2
+materials:
+image_name: lego_wedo.jpg

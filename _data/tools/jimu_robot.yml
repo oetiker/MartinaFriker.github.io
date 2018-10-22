@@ -1,0 +1,14 @@
+category: Roboter
+name: Jimu Robot
+description: Roboter (Baukastensystem) mit 6 Servomotoren, Infrarotsensor
+advantages: Günstiger als Lego Mindstorms, Bauanleitung in 3D
+languages:
+  - visuell/Blöcke
+  - Swift
+ages:
+  - 2. Zyklus
+link:
+  url: https://ubtrobot.com/collections/jimu-robots
+  desc: ubtrobot.com/jimu-robots
+materials:
+image_name: jimu_robot.jpg

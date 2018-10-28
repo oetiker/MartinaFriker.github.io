@@ -10,38 +10,40 @@ jQuery(document).ready(function() {
         var $this = jQuery(this);
 
         var cat = $this.data("category"); //variable category aus data-jaml-files
-        categories_hash[cat] = 1; // value im hash kategorie für jeden key = 1 (eigentlich egal was aber es braucht einen)
+        categories_hash[cat] = categories_hash[cat] + 1 || 1; // value im hash kategorie für jeden key = 1 (eigentlich egal was aber es braucht einen)
 
         var ages = $this.data("ages"); //variable ages aus data-jaml-file
         ages.forEach(function(age) { // wie bei kategorie aber pro tool hat es mehrere ages, darum loop
-            ages_hash[age] = 1;
+            ages_hash[age] = ages_hash[age] + 1 || 1;
         });
 
         var languages = $this.data("languages") //variable languages aus data-jaml-file
         languages.forEach(function(language) { //wie bei kategorie ages
-            languages_hash[language] = 1;
+            languages_hash[language] = languages_hash[language] + 1 || 1;
         });
 
     });
 
-    var measure = function(){
-      var height = 0;
-      $Tools.css("height", "auto");
-      window.setTimeout(function() {
-        $Tools.each(function() {
-          var $tool = $(this);
-          if($tool.parent().is(":hidden")){
-            return this;
-          }
-                             //-> jquery visible ?
-          height = Math.max(height, Math.round($tool.height()));
+    console.log(categories_hash);
 
-          console.log(height);
-          return this;
+    var measure = function() {
+        var height = 0;
+        $Tools.css("height", "auto");
+        window.setTimeout(function() {
+            $Tools.each(function() {
+                    var $tool = $(this);
+                    if ($tool.parent().is(":hidden")) {
+                        return this;
+                    }
+                    //-> jquery visible ?
+                    height = Math.max(height, Math.round($tool.height()));
 
-        })
-      .height(height);
-    }, 0);
+                    console.log(height);
+                    return this;
+
+                })
+                .height(height);
+        }, 0);
     };
 
     measure();
@@ -54,18 +56,18 @@ jQuery(document).ready(function() {
 
     var tool_loop = function() {
 
-        $Tools.each(function() {     //loop tools holen
+        $Tools.each(function() { //loop tools holen
 
-          var $this = jQuery(this);
+            var $this = jQuery(this);
 
 
             for (var group in checked_hash) {
                 var content_found = false;
-                for (var item in checked_hash[group]) {  //schauen ob ein Element vohanden ist
-                   content_found = true;
+                for (var item in checked_hash[group]) { //schauen ob ein Element vohanden ist
+                    content_found = true;
                 }
-                if (!content_found) {    //wenn nichts gefunden
-                  continue              // zur nächsten Gruppe (zeile 55)
+                if (!content_found) { //wenn nichts gefunden
+                    continue // zur nächsten Gruppe (zeile 55)
                 }
 
 
@@ -97,18 +99,19 @@ jQuery(document).ready(function() {
 
     var myFunc = function(hash, filter, name) {
 
-      let $line = jQuery("<tr class='filter_lines'> </tr>");
+        let $line = jQuery("<tr class='filter_lines'> </tr>");
 
-      $line.append('<td class="topic" VALIGN="TOP">'+name+'</td>');
+        $line.append('<td class="topic" VALIGN="TOP">' + name + '</td>');
 
-      $choice.append($line);
-      let $boxset = jQuery('<td class="boxset"></td>');
-      $line.append($boxset);
+        $choice.append($line);
+        let $boxset = jQuery('<td class="boxset"></td>');
+        $line.append($boxset);
 
 
 
-        Object.keys(hash).sort().forEach(function(hash_key){
-            let $span = jQuery("<span class='checkbox'>").html(hash_key + " " + "<input type='checkbox'/>");
+        Object.keys(hash).sort().forEach(function(hash_key) {
+            let $span = jQuery("<span class='checkbox'>").html("<input type='checkbox'/> " +
+                hash_key + " <span class='counter'>(" + hash[hash_key] + ")</span>");
             $boxset.append($span);
             $span.on("click", function() {
                 var $input = jQuery('input', $span);
@@ -118,11 +121,11 @@ jQuery(document).ready(function() {
                 }
 
                 if (checked) {
-                  checked_hash[filter][hash_key] = true;
+                    checked_hash[filter][hash_key] = true;
                 } else {
-                  delete checked_hash[filter][hash_key];
+                    delete checked_hash[filter][hash_key];
                 }
-                console.log (checked_hash);
+                console.log(checked_hash);
 
 
                 tool_loop()

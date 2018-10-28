@@ -7,8 +7,8 @@ languages:
 ages:
   - 1. Zyklus
 link:
-  url: https://itunes.apple.com/ch/app/scratchjr/id895485086?mt=8
-  desc: Scratch Jr im Appstore
+  url: https://www.scratchjr.org/
+  desc: www.scratchjr.org
 materials:
   - url: https://tueftelakademie.de/courses/digitales-programmieren-ii-scratch-junior/
     desc: Unterrichtsmaterial von tueftelakademie.de

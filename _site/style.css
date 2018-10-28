@@ -1,66 +1,89 @@
 .title {
-  background-color: #008080;
-  color: white;
-  padding-left: 25px;
-  padding-right: 25px;
-  padding-top: 25px;
-  padding-bottom: 5px;
+    background-color: #008080;
+    color: white;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    padding-bottom: 5px;
 }
 
 .icon {
-  width: 8%;
-  padding-top: 20px;
-  display: block;
-  margin: 0 auto;
+    width: 8%;
+    padding-top: 20px;
+    display: block;
+    margin: 0 auto;
 }
 
 .text {
-  padding-top: 25px;
-  padding-left: 25px;
+    padding-top: 25px;
+    padding-left: 25px;
 }
 
-.links_title {padding-left: 20px;}
+.links_title {
+    padding-left: 20px;
+}
 
-.checkbox {margin-left: 20px;}
+.checkbox {
+    margin-left: 20px;
+    display: inline-block;
+}
 
-.container-fluid {padding-top: 25px;}
-
-.checkbox {display: inline-block;}
+.container-fluid {
+    padding-top: 25px;
+}
 
 .filter_lines td {
-  padding-bottom: 5px;
-  padding-top: 5px;
-  padding-left: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+.counter {
+    color: rgba(0, 0, 0, 0.3);
 }
 
 .content {
-  padding-left: 15px;
-  padding-right: 15px;
-  background-color: #00b3b3;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #00b3b3;
 }
 
 .tools {
-  background-color: white;
-  border-radius: 25px;
-  border-style: solid;
-  border-color: #008080;
-  color: black;
-  padding-top: 25px;
-  padding-left: 25px;
-  padding-right: 25px;
-  margin-top: 25px;
-  margin-bottom: 25px;
-  width: 100%;
+    background-color: white;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: #008080;
+    color: black;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 100%;
 }
 
-.tool_title {text-align: center;}
-
+.tool_title {
+    text-align: center;
+}
 
 .tool_image {
-  display: block;
-  width: 60%;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 20px;
-  margin-bottom: 20px;
+    display: block;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 768px) {
+    td.topic {
+        position: absolute;
+    }
+    td.boxset {
+        padding-top: 4.5ex;
+        padding-right: 1em;
+    }
+    .filter_lines td {
+        padding-left: 15px;
+    }
 }

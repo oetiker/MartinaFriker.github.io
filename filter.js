@@ -29,6 +29,12 @@ jQuery(document).ready(function() {
     var measure = function() {
         var height = 0;
         $Tools.css("height", "auto");
+        if ($(window).width() <= 768){
+            // if the window is smaller than 600px
+            // do NOT set a fixed height for
+            // tool divs since we only have a single column.
+            return;
+        }
         window.setTimeout(function() {
             $Tools.each(function() {
                     var $tool = $(this);
@@ -47,7 +53,7 @@ jQuery(document).ready(function() {
     };
 
     measure();
-
+    $(window).on('resize',measure);
 
 
     var $choice = jQuery("#choice");
